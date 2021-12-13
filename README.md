@@ -16,14 +16,13 @@ Significant code
   - ioheavyprocess.c
 - XV6 Modifications 
   - proc.c
-    - what changes were made?
-  - Makefile
   - Files changes for syscall implementation
     - syscall.c
     - syscall.h
     - sysproc.c
     - user.h
     - usys.S
+  - Makefile
 
 
 NOTE: ALL XV6 CODE IS BEING USED FOR EDUCATIONAL PURPOSES. WE CLAIM NO OWNERSHIP OR CREDIT FOR XV6, 
