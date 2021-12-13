@@ -8,4 +8,21 @@ Resources for setting up XV6:
 - Guide to setting up XV6 code: https://www.assistedcoding.eu/2017/11/06/install-vx6-operating-system/
 - XV6 Codebase: https://github.com/mit-pdos/xv6-public
 
+Significant code 
+- Test processes 
+  - runnerprog.c
+  - shortprocess.c
+  - longprocess.c
+  - ioheavyprocess.c
+- XV6 Modifications 
+  - proc.c
+    - what changes were made?
+  - Makefile
+  - Files changes for syscall implementation
+    - syscall.c
+    - syscall.h
+    - sysproc.c
+    - user.h
+    - usys.S
+
 
