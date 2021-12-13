@@ -8,7 +8,7 @@ Resources for setting up XV6:
 - Guide to setting up XV6 code: https://www.assistedcoding.eu/2017/11/06/install-vx6-operating-system/
 - XV6 Codebase: https://github.com/mit-pdos/xv6-public
 
-Significant code 
+Significant Code Changes
 - Test processes 
   - runnerprog.c
   - shortprocess.c
